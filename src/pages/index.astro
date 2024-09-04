@@ -9,6 +9,7 @@ import MailIcon from '../components/icons/Mail.astro';
 import Experience from '../components/Experience.astro';
 import Briefcase from '../components/icons/Briefcase.astro';
 import CodeIcon from '../components/icons/Code.astro';
+import Projects from '../components/Projects.astro';
 ---
 
 <Layout 
@@ -16,7 +17,7 @@ import CodeIcon from '../components/icons/Code.astro';
 	description='Contrata a Freddy para atormentar a tus vecinos'>
 
 	<main class="px-4">
-		<SectionContainer class="py-44 pb-24">
+		<SectionContainer class="py-44 pb-32">
 			<img 
 				class="rounded-full size-12 mb-4" 
 				src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0r0cf1ki26L0XoEduqkGHVvndmGelS3f7xg&s" 
@@ -56,19 +57,19 @@ import CodeIcon from '../components/icons/Code.astro';
 	</SectionContainer>
 
 	<SectionContainer id="experiencia">
-		<h2 class="text-2xl font-semibold mb-6 flex gap-x-4 items-center">
-			<Briefcase class="size-6" />
+		<h2 class="text-3xl font-semibold mb-6 flex gap-x-4 items-center">
+			<Briefcase class="size-8" />
 			Experiencia laboral
 		</h2>
 		<Experience />
 	</SectionContainer>
 
 	<SectionContainer>
-		<h2 class="text-2xl font-semibold mb-6 flex gap-x-4 items-center">
-			<CodeIcon />
+		<h2 class="text-3xl font-semibold mb-6 flex gap-x-4 items-center">
+			<CodeIcon class="size-8"/>
 			Proyectos
 		</h2>
-		<Experience />
+		<Projects />
 	</SectionContainer>
 
 </main>
