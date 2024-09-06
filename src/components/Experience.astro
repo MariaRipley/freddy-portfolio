@@ -4,20 +4,22 @@ import ExperienceItem from "./ExperienceItem.astro"
 const EXPERIENCE = [
     {
         date: 'Actualmente...',
-        title: 'Creador de contenido - Twitch',
+        title: 'Creador de contenido',
+        company: 'Twitch',
         description: 'Divulgo sobre sustos en diferentes plataformas. Galardonado como mejor asustador en 2022 y mejor comunidad maligna en 2023.',
-        link: '#',
+        link: 'https://www.twitch.tv/',
     },
     {
         date: 'Septiembre 2022',
-        title: 'Asesino de pesadillas Senior - Elm Street Inc.',
+        title: 'Asesino de pesadillas Senior',
+        company: 'Elm Street Inc.',
         description: 'Responsable de asesinar adolescentes mientras duermen. Desarrollo de venganza diaria hacia sus padres. '
     }
 ]
 ---
 
 
-<ol class="relative border-s border-gray-200 ml-3">      
+<ol class="relative mt-16">      
     {
         EXPERIENCE.map(experience => (
             <li class="mb-10 ms-4">
