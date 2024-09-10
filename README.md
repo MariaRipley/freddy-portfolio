@@ -4,7 +4,7 @@
 
 ## 🚀 Descripción del Proyecto
 
-Este es un portfolio desarrollado con [Astro](https://astro.build/), [React](https://reactjs.org/), [TailwindCSS](https://tailwindcss.com/), y [TypeScript](https://www.typescriptlang.org/) para destacar la carrera y habilidades de **Freddy Krueger**, uno de los personajes más icónicos del cine de terror.
+Este es un portfolio desarrollado con [Astro](https://astro.build/), [TailwindCSS](https://tailwindcss.com/), y [TypeScript](https://www.typescriptlang.org/) para destacar la carrera y habilidades de **Freddy Krueger**, uno de los personajes más icónicos del cine de terror.
 
 ¿Necesitas alguien para aterrorizar a tus vecinos o te gustaría saber más sobre los proyectos en los que Freddy ha estado trabajando? Aquí encontrarás toda la información.
 
@@ -13,7 +13,6 @@ Este es un portfolio desarrollado con [Astro](https://astro.build/), [React](htt
 ## 🧑‍💻 Tecnologías Utilizadas
 
 - **Astro**: Framework moderno para construir sitios web rápidos.
-- **React**: Usado para crear componentes dinámicos y reutilizables.
 - **TailwindCSS**: Estilización sin complicaciones, directamente en los componentes.
 - **TypeScript**: Garantía de tipos estáticos para un código más robusto y seguro.
 
