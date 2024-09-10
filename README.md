@@ -2,6 +2,8 @@
 
 ¡Bienvenidos al portfolio no-oficial de Freddy Krueger, el maestro del terror nocturno y atormentador profesional de adolescentes! Si alguna vez te preguntaste qué hace Freddy cuando no está invadiendo sueños, ¡aquí podrás descubrirlo!
 
+Puedes visitar el portfolio en vivo aquí: [Portfolio de Freddy Krueger](https://glittering-profiterole-37af6f.netlify.app/)
+
 ## 🚀 Descripción del Proyecto
 
 Este es un portfolio desarrollado con [Astro](https://astro.build/), [TailwindCSS](https://tailwindcss.com/), y [TypeScript](https://www.typescriptlang.org/) para destacar la carrera y habilidades de **Freddy Krueger**, uno de los personajes más icónicos del cine de terror.
