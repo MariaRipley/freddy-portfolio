@@ -1,54 +1,68 @@
-# Astro Starter Kit: Basics
+# Portfolio de Freddy Krueger 🎃
 
-```sh
-npm create astro@latest -- --template basics
+¡Bienvenidos al portfolio no-oficial de Freddy Krueger, el maestro del terror nocturno y atormentador profesional de adolescentes! Si alguna vez te preguntaste qué hace Freddy cuando no está invadiendo sueños, ¡aquí podrás descubrirlo!
+
+## 🚀 Descripción del Proyecto
+
+Este es un portfolio desarrollado con [Astro](https://astro.build/), [React](https://reactjs.org/), [TailwindCSS](https://tailwindcss.com/), y [TypeScript](https://www.typescriptlang.org/) para destacar la carrera y habilidades de **Freddy Krueger**, uno de los personajes más icónicos del cine de terror.
+
+¿Necesitas alguien para aterrorizar a tus vecinos o te gustaría saber más sobre los proyectos en los que Freddy ha estado trabajando? Aquí encontrarás toda la información.
+
+> Este proyecto fue creado siguiendo un [tutorial de midudev](https://youtu.be/HEMvsJTBweY?si=9BwhE-eDQCVVoo2t)
+
+## 🧑‍💻 Tecnologías Utilizadas
+
+- **Astro**: Framework moderno para construir sitios web rápidos.
+- **React**: Usado para crear componentes dinámicos y reutilizables.
+- **TailwindCSS**: Estilización sin complicaciones, directamente en los componentes.
+- **TypeScript**: Garantía de tipos estáticos para un código más robusto y seguro.
+
+## ⚙️ Instalación y Uso
+
+### Clonar el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/portfolio-freddy.git
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+### Instalar las dependencias: 
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+```bash
+npm install
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### Ejecutar el proyecto en modo desarrollo: 
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+```bash
+npm run dev
+```
 
-Any static assets, like images, can be placed in the `public/` directory.
+### Generar la build de producción: 
 
-## 🧞 Commands
+```bash
+npm run build
+```
 
-All commands are run from the root of the project, from a terminal:
+### Previsualizar la build:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+```bash
+npm run preview
+```
 
-## 👀 Want to learn more?
+## 🌟 Características
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- **Experiencia laboral**: Un resumen completo de las más infames actividades de Freddy, desde invadir sueños hasta aterrorizaciones masivas.
+- **Proyectos**: Freddy ha estado involucrado en varios proyectos terroríficos y videojuegos. Aquí puedes ver un resumen de todos ellos.
+- **Sobre Freddy**: Un poco sobre el hombre detrás del guante de cuchillas. ¿Quién es Freddy cuando no está aterrorizando a los adolescentes?
+
+## 📸 Capturas de Pantalla
+
+Aquí van algunas capturas del portfolio en acción.
+
+![image](https://github.com/user-attachments/assets/65f9ac32-21b6-4fb0-8a97-1bf5a819eb68)
+
+## 📄 Licencia
+
+Este proyecto es solo para fines de entretenimiento y educativos.
+
+
